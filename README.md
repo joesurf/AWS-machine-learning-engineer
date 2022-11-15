@@ -35,7 +35,7 @@ Feature engineering.
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 While AutoGluon can build state of the art machine learning models directly, it is more useful as a go-to baselining method.
